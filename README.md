@@ -3,7 +3,7 @@
 Welcome to this repository containing the apk files for a Chao garden environment in VR. This repository is utilised to provide direct download links to the apk files for sidequest and to potentially update said apk files.
 Developed and tested on Metaquest 2.
 
-![Thumbnail](media/Egg Carrier Chao Garden Thumbnail.png)
+![Thumbnail](media/Egg-Carrier-Chao-Garden-Thumbnail.png)
 ## How to install
 Install the environment directly through the sidequest store or do so manually by downloading and uploading the apk file to the headset
 
